@@ -1,8 +1,8 @@
 /*{
   "ISFVSN": "2.0",
   "VSN": "1.0",
-  "DESCRIPTION": "One Cathodemer Synthesizer oscillator pair. Independent X/Y sine, square, ramps, triangle, held noise, Lorenz and Rossler; recovered frequency, phase, volume and raster-cache sync. White output. Persistent RGBA8 state; no float render targets. Frequency and phase knobs use 0..1. One native-style scan per rendered frame.",
-  "CREDIT": "Beamreaver / Cathodemer executable analysis",
+  "DESCRIPTION": "X/Y oscillator pair",
+  "CREDIT": "codex",
   "CATEGORIES": [
     "Generator"
   ],
